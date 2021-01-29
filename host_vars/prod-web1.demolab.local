@@ -1,0 +1,2 @@
+# override cis checks for a single host. We don't want to apply 83496
+cis_apply_cce_83496_0: false
